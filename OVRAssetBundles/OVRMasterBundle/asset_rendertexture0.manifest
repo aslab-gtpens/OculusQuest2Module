@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1608718595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04391996b4a4b58adec45d670478c253
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: feaa08ab20190d02d4751c45ba900362
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Textures/SelfieImage.renderTexture
+Dependencies: []

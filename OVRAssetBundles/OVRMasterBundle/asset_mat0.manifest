@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4243446441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46a4a719289ffc38407297c94abaacf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddfde9a2fc11de291cc1a5901c25d19f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Oculus/VR/Materials/CubeMaterial.mat
+- Assets/Oculus/VR/Materials/PlainMaterial.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Oculus/VR/Materials/SelfieImage.mat
+Dependencies:
+- C:/Users/atqam/Documents/repo/unity/OculusQuest2Test/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/atqam/Documents/repo/unity/OculusQuest2Test/OVRAssetBundles/OVRMasterBundle/asset_rendertexture0
+- C:/Users/atqam/Documents/repo/unity/OculusQuest2Test/OVRAssetBundles/OVRMasterBundle/asset_tga0
