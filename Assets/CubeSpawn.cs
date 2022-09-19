@@ -1,21 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CubeSpawn : MonoBehaviour
 {
+    public GameObject benda;
     // Start is called before the first frame update
-    void Start()
+    public void ButtonClicked()
     {
-        GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
-        cube.transform.position = new Vector3(0, 0, 0);
+        Instantiate(benda, new Vector3(0, 0, 0), Quaternion.identity);
+        benda.AddComponent<BoxCollider>();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-
-    }
-
 }
